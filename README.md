@@ -22,7 +22,6 @@
   <a href="https://www.instagram.com/_messier1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paloma-de-castro-leite-135616243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  //![Snake animation](https://github.com/palomac1/palomac1/blob/output/github-contribution-grid-snake.svg)
   
  </div>
 
