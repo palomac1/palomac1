@@ -1,4 +1,4 @@
-### Olá, eu sou a Paloma de Castro!
+### Hi, I'm Paloma!
 
 🔭 I'm currently a computer science student.
 
