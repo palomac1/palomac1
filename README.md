@@ -1,3 +1,4 @@
+### Hi, I'm Paloma!
 🔭 I'm currently a computer science student.
 
 #
@@ -25,5 +26,4 @@
   </div>
   
 ---
-![Snake animation](https://github.com/EllenVieira1/EllenVieira1/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
