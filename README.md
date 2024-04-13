@@ -2,8 +2,8 @@
 
 #
 <div align="center">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PalomadeCastro&theme=radical&hide_border=true&include_all_commits=true&count_private=false"/>
-<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EllenVieira1&theme=radical&hide_border=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=palomac1&theme=radical&hide_border=true&include_all_commits=true&count_private=false"/>
+<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=palomac1&theme=radical&hide_border=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomac1&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
