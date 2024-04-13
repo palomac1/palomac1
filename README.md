@@ -1,5 +1,4 @@
-### Hi, I'm Paloma!
-🔭 I'm currently a computer science student.
+
 
 #
 <div align="center">
