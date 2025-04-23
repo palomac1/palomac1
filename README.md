@@ -1,4 +1,18 @@
-#
+<h3 align="center">
+        <samp>&gt; Hello, I'm
+                <b><a target="_blank">Paloma!</a></b>
+        </samp>
+</h3>
+
+I am a student of computer science, always looking for ways to expand my knowledge and learn something new.
+
+
+- 📖 I’m currently a student at Unespar.
+
+- 🔍 I have an interest front-end, UX/UI designer and robotics, but I am still a beginner
+
+
+
 <div align="center">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=palomac1&theme=radical&hide_border=true&include_all_commits=true&count_private=false"/>
     <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=palomac1&theme=radical&hide_border=true"/>
