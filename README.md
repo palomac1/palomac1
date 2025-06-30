@@ -9,7 +9,7 @@ I am a student of computer science, always looking for ways to expand my knowled
 
 - 📖 I’m currently a student at Unespar.
 
-- 🔍 I have an interest front-end, UX/UI designer and robotics, but I am still a beginner
+- 🔍 I am interested in UX/UI design and cybersecurity
 
 
 
