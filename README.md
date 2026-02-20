@@ -8,22 +8,17 @@
 <!-- About me -->
 <h2 align="left">About me</h2>
 
-I am a student of computer science, always looking for ways to expand my knowledge and learn something new.
-
-
-- 📖 I’m currently a student at Unespar.
-
-- 🔍 I am interested in UX/UI design and cybersecurity
-
+- 🎓 4th year Computer Science student at **UNESPAR**.
+  
+- 🔬 Currently researching **Penetration Testing (Pentest)** in an Undergraduate Research Project (IC).
+  
+- 🔍 Focused on **Digital Forensics**, **UI/UX**, and **Cybersecurity**.
+  
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools</h2>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,py,c,js,vscode,docker,mysql,php,linux"/>
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF2?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+  <img src="https://skillicons.dev/icons?i=java,py,c,js,vscode,mysql,php,linux,ubuntu,bash,git,kali,wireshark,burp,metasploit"/>
+</a>
 
 <!-- Stats -->
 <h2>Stats</h2>
@@ -32,12 +27,14 @@ I am a student of computer science, always looking for ways to expand my knowled
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomac1&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
-
 <!-- Medias -->
 <h2>Where to find me?</h2>
 <p align="left">
  <a href="https://www.linkedin.com/in/palomac1" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+<a href="http://lattes.cnpq.br/7747101940155881" target="_blank">
+  <img src="https://img.shields.io/badge/Lattes-FFD700?style=for-the-badge&logo=google-scholar&logoColor=black"/>
  </a>
 </p>
 
