@@ -19,6 +19,10 @@ I am a student of computer science, always looking for ways to expand my knowled
 <h2 align="left">Languages and Tools</h2>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=java,py,c,js,vscode,docker,mysql,php,linux"/>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF2?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 <!-- Stats -->
