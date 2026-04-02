@@ -12,7 +12,7 @@
   
 - 🔬 Currently researching **Penetration Testing (Pentest)** in an Undergraduate Research Project (IC).
   
-- 🔍 Focused on **Digital Forensics**, **UI/UX**, and **Cybersecurity**.
+- 🔍 Focused on **Networks**, **UI/UX**, and **Cybersecurity**.
   
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools</h2>
