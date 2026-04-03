@@ -23,15 +23,20 @@
 <!-- Stats -->
 <h2>Stats</h2>
 
-<p align="center">
-  <a href="https://github.com/palomac1">
-    <img src="https://github-readme-stats-palomac1s-projects.vercel.app/api?username=palomac1&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px">
-  </a>
-
-  <a href="https://github.com/palomac1">
-    <img src="https://github-readme-stats-palomac1s-projects.vercel.app/api/top-langs/?username=palomac1&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&layout=compact" height="192px">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/palomac1">
+        <img src="https://github-readme-stats-tau-two-69.vercel.app/api?username=palomac1&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/palomac1">
+        <img src="https://github-readme-stats-tau-two-69.vercel.app/api/top-langs/?username=palomac1&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&layout=compact" height="192px" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- Medias -->
 <h2>Where to find me?</h2>
