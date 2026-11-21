@@ -7,8 +7,7 @@
 <!-- About me -->
 <h2 align="left">About me</h2>
 
-- 🎓 Final-year Computer Science student at **UNESPAR** with a technical background in IT (SENAC) and hands-on experience in **NOC Monitoring**, **Linux Administration**, and **Observability**.
-- 🔬 Undergraduate Researcher in **Digital Forensics**, focusing on malware analysis, network vulnerability assessment, and threat behavior reporting.
+- 🎓 Final-year Computer Science student at **UNESPAR** and hands-on experience in **NOC Monitoring**, **Linux Administration**, and **Observability**.
 - ☁️ Currently enrolled in the **AWS re/Start** program, building cloud computing foundations alongside **Red Hat (RH124)** and **AppSec** certifications.
 - 🚀 Focused on **DevOps**, **Cloud Infrastructure**, **Observability**, and **Cybersecurity**.
 
